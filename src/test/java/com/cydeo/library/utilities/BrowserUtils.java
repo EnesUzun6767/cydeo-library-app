@@ -462,6 +462,7 @@ for given duration
                 waitFor(1);
             }
         }
+
     }
 
     /**
@@ -472,6 +473,9 @@ for given duration
      */
     public static void waitForPresenceOfElement(By by, long time) {
         new WebDriverWait(Driver.getDriver(), time).until(ExpectedConditions.presenceOfElementLocated(by));
+    }
+    public static void method2(){
+        System.out.println("o =oooki ");
     }
 
 
