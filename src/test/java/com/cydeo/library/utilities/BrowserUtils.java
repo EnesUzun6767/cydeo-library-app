@@ -464,6 +464,9 @@ for given duration
         }
     }
 //ahanda burda ciksin
+    public void method1(){
+        System.out.println("hello");
+    }
     /**
      *  checks that an element is present on the DOM of a page. This does not
      *    * necessarily mean that the element is visible.
