@@ -11,13 +11,21 @@ public class CihadStepss {
         throw new io.cucumber.java.PendingException();
     }
 
+
+
+
     @When("the user clicks the {string} moduleS")
     public void the_user_clicks_the_module_s(String string) {
-        // Write code here that turns the phrase above into concrete actions
+        // Write code here that turns the phrase above into concrete actions...
         throw new io.cucumber.java.PendingException();
     }
 
-    @When("user click action-icon  from any file on the pageS")
+
+
+
+
+
+    @When("user click action-icon  from any file on the page")
     public void user_click_action_icon_from_any_file_on_the_page_s() {
         // Write code here that turns the phrase above into concrete actions
         throw new io.cucumber.java.PendingException();
@@ -25,7 +33,7 @@ public class CihadStepss {
 
     @When("user choose the {string} optionS")
     public void user_choose_the_option_s(String string) {
-        // Write code here that turns the phrase above into concrete actions.
+        // Write code here that turns the phrase above into concrete actions
         throw new io.cucumber.java.PendingException();
     }
 
