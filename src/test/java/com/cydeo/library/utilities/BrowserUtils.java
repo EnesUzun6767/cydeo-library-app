@@ -464,8 +464,9 @@ for given duration
         }
     }
 //ahanda burda ciksin
-    public void method1(){
-        System.out.println("hello");
+    public static String method1(){
+        return "aasdfasf";
+
     }
     /**
      *  checks that an element is present on the DOM of a page. This does not
