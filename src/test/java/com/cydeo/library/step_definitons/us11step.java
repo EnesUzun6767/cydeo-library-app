@@ -13,7 +13,7 @@ public class us11step {
 
     @When("the user clicks the {string} moduleS")
     public void the_user_clicks_the_module_s(String string) {
-        // Write code here that turns the phrase above into concrete actions
+        // Write code here that turns the phrase above into concrete actions...
         throw new io.cucumber.java.PendingException();
     }
 
